@@ -1,7 +1,7 @@
-#include "bayo.h"
+#include "main.h"
 
 /**
-* main - Prints Bayo as a message.
+* main - Prints Main as a message.
 *
 * Return: Always 0 (Success)
 */
